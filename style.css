@@ -879,6 +879,47 @@
     transform: scale(1.1);
     transition: transform 0.3s ease;
 }
+
+/* <!-- ---------------------------------- Início Sessão Mobile 08 ---------------------------------------- --> */
+#sessao-08 .mobile h2{
+    /* border: 2px solid red; */
+    text-wrap: balance;
+    text-align: center;
+    font-size: 1.3em;
+	font-weight: 600;
+    padding-top: 20px;
+}
+
+#sessao-08 .mobile p{
+    /* border: 2px solid red; */
+    text-wrap: pretty;
+    text-align: center;
+    font-size: 0.9em;
+	font-weight: 400;
+}
+
+#sessao-08 .mobile .bloco{
+    height: 80%;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#sessao-08 .mobile .bloco img{
+    /* width: 120%; */
+    height: 80%;
+    /* padding-right: 5px; */
+}
+
+#sessao-08 .mobile .web{
+    padding: 0;
+}
+
+#sessao-08 .mobile button{
+    font-weight: 300;
+    font-size: 0.8em;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 08 ---------------------------------------- --> */
+
 /* <!-- ---------------------------------- FIM SESSÃO 08 ---------------------------------------- --> */
 
 
