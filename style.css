@@ -1,0 +1,1417 @@
+/* @font-face {
+    font-family: minha_font;
+    src: url(fonts/EquilibriumSerif_PERSONAL_USE_ONLY.otf);
+} */
+
+#sessao-00{
+    background: url(imagens/topo_bege.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    color: white;
+}
+
+#sessao-00 .conteudo{
+    /* border: 1px solid blue; */
+    margin-top: 80px;
+    margin-bottom: 100px;
+    padding-top: 14px;
+    padding-left: 33px;
+}
+
+#sessao-00 h2{
+    color: #4d0f21;
+    text-shadow: 1px 1px 2px white;
+    font-family: "ZetaFonts", Sans-serif;
+	font-size: 2.5em;
+	font-weight: 400;   
+    text-wrap: balance;
+    line-height: 1.0em;
+    margin-bottom: 20px;
+}
+
+#sessao-00 p{
+    text-align: left;
+    color: #161616;
+    font-family: "Manrope", Sans-serif;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+#sessao-00 a{
+    text-decoration: none;
+}
+
+#sessao-00 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-00 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+#sessao-00 img{
+    /* height: 480px; */
+    height: 500px;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 00 ---------------------------------------- --> */
+#sessao-00 .caixa{
+    /* background: url(imagens/sessao-00.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
+
+#sessao-00 .box h2{
+    text-wrap: balance;
+    font-weight: bolder;
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    padding-top: 100px;
+}
+
+#sessao-00 .box p{
+    /* border: 1px solid red; */
+    font-size: 0.8em;
+    margin-bottom: 10px;
+}
+
+#sessao-00 .box button{
+    font-weight: 300;
+    font-size: 0.8em;
+    margin-bottom: 30px;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 00 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 00 ---------------------------------------- --> */
+
+
+#sessao-01{
+    background: linear-gradient(270deg, #8b2040 0%, #4d0f21 100%);
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    /* background: radial-gradient(#4d0f21, #cdbeab) ; */
+    /* background-color: transparent;
+	background-image: linear-gradient(0deg, #cdbeab 52%, #00000000 62%) */
+}
+
+#sessao-01 .box-video{
+   padding: 50px;
+}
+
+#sessao-01 iframe{
+    /* height: 300px;
+	width: 500px; */
+	display: flex;
+	border: none;
+	/* background-color: #000; */
+    box-shadow: 0px 0px 20px 2px #000000;
+}
+
+/* sessao-01 .box-p{
+    text-align: left;
+} */
+
+#sessao-01 h2{
+	font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.6em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+#sessao-01 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-01 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 00 ---------------------------------------- --> */
+#sessao-00 .caixa{
+    /* background: url(imagens/sessao-00.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
+
+#sessao-01 .box h2{
+    text-wrap: pretty;
+    font-weight: 700;
+    font-size: 1.4em;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+
+#sessao-01 .box iframe{
+    border: 1px solid red;
+    /* margin-left: -50px; */
+    width: 215px;
+    height: 130px;
+    margin-bottom: 15px;
+}
+
+#sessao-01 .box button{
+    font-weight: 300;
+    font-size: 0.8em;
+    margin-bottom: 10px;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 00 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 01 ---------------------------------------- --> */
+
+#sessao-02{
+    background: #cdbeab;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+#sessao-02 h2{
+    color: #4d0f21;
+    font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.6em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#sessao-02 .box{
+    margin-bottom: 10px;
+}
+
+#sessao-02 .bloco{
+    display: flex;
+    align-items: center;
+    color: white;
+    background: #8b2040;
+    border: 2px solid #4d0f21;
+    border-radius: 30px 0 30px 0;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-02 .bloco img{
+    height: 8px;
+    padding-right: 5px;
+}
+
+#sessao-02 .bloco p{
+    padding: 0px;
+    margin: 0;
+}
+
+#sessao-02 .web{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 40px;
+
+}
+
+#sessao-02 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-02 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 02 ---------------------------------------- --> */
+#sessao-02 .caixa{
+    /* background: url(imagens/sessao-00.jpg) no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
+
+#sessao-02 .mobile h2{
+    margin-top: 0;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+#sessao-02 .mobile p{
+    font-size: 0.9em;
+}
+
+#sessao-02 .mobile{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+
+#sessao-02 .mobile button{
+    font-weight: 300;
+    font-size: 0.8em;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 02 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 02 ---------------------------------------- --> */
+
+#sessao-03{
+    /* background: #cdbeab url(imagens/Fotos-clientes.png) no-repeat; */
+    background: #cdbeab;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+#sessao-03 h2{
+    color: #4d0f21;
+    font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.3em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    margin-bottom: 20px;
+}
+
+#sessao-03 .link button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #8b2040;
+	border-radius: 20px 0 20px 0;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-03 img{
+    width: 10px;
+    margin-right: 10px;
+    padding-bottom: 2px;
+}
+
+#sessao-03 p{
+    margin: 20px 0 20px 0;
+}
+
+#sessao-03 .p-02{
+    border: 1px solid #26b605;
+    width: 70%;
+}
+
+#sessao-03 span{
+    color: #4d0f21;
+    font-weight: 500;
+}
+
+#sessao-03 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-03 .web button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 03 ---------------------------------------- --> */
+#sessao-03 .mobile h2{
+    /* border: 2px solid red; */
+    padding: 0 20px;
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+#sessao-03 .mobile .botao{
+    padding: 10px;
+    font-size: 1.0em;
+}
+
+#sessao-03 .topico{
+    margin-bottom: -30px;
+}
+
+#sessao-03 .mobile img{
+    height: 12px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+#sessao-03 .mobile p{
+    /* text-shadow: 1px 1px 2px #fff; */
+    padding: 0 15px 0 0;
+    /* border: 1px solid red; */
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+#sessao-03 .mobile .topc p{
+    padding-left: 15px;
+    padding-right: 0;
+    padding-top: 10px;
+    text-wrap: pretty;
+}
+
+#sessao-03 .mobile button{
+    font-weight: 300;
+    font-size: 0.8em;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 03 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 03 ---------------------------------------- --> */
+
+
+#sessao-04{
+    background: linear-gradient(180deg, #8b2040 0%, #4d0f21 100%);
+}
+
+#sessao-04 .col-8{
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+
+#sessao-04 h2{
+    color: white;
+    font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.6em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+#sessao-04 .box{
+    margin-bottom: 10px;
+}
+
+#sessao-04 .bloco{
+    display: flex;
+    align-items: center;
+    background: #eee;
+    border-radius: 30px 0 30px 0;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    width: 95%;
+}
+
+#sessao-04 .bloco img{
+    height: 13px;
+    padding-right: 5px;
+}
+
+#sessao-04 .bloco p{
+    padding: 0px;
+    margin: 0;
+}
+
+#sessao-04 .web{  
+    padding-top: 25px;
+}
+
+#sessao-04 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-04 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 04 ---------------------------------------- --> */
+#sessao-04 .mobile h2{
+    /* border: 2px solid red; */
+    text-align: center;
+    font-size: 1.6em;
+	font-weight: 500;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-04 .mobile .bloco{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#sessao-04 .mobile .bloco img{
+    height: 13px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#sessao-04 .mobile .bloco p{
+    padding-right: 10px;
+    margin: 0;
+    font-size: 0.9em;
+}
+
+#sessao-04 .mobile{
+    padding-bottom: 25px;
+}
+
+#sessao-04 .mobile button{
+    font-weight: 300;
+    font-size: 0.8em;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 04 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 04 ---------------------------------------- --> */
+
+#sessao-05{
+    background: #cdbeab;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#sessao-05 h2{
+    /* border: 1px solid #ff0000; */
+    color: #4d0f21;
+    font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.6em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    width: 80%;
+}
+
+#sessao-05 .linha{
+    width: 28%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #000000;
+}
+
+#sessao-05 .web{
+    margin-left: 30px;
+}
+
+#sessao-05 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-05 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+#sessao-05 img{
+    width: 95%;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 05 ---------------------------------------- --> */
+#sessao-05 .mobile h2{
+    text-wrap: balance;
+    text-align: left;
+    font-size: 1.6em;
+	font-weight: 700;
+    margin-left: 10px;
+}
+
+#sessao-05 .mobile .linha{
+    margin-left: 10px;
+}
+
+#sessao-05 .mobile img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#sessao-05 .mobile .web{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-05 .mobile button{
+    width: 100%;
+    font-weight: 300;
+    font-size: 0.8em;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 05 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 05 ---------------------------------------- --> */
+
+
+#sessao-06{
+    background: #696969 url(imagens/atendimento.jpg) no-repeat center;
+    background-size: cover;
+    color: white;
+    /* border-top: 1px solid red; */
+    padding-bottom: 40px;
+}
+
+#sessao-06 h2{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid red;
+    width: 80%;
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 2.0em;
+    text-align: center;
+}
+
+#sessao-06 iframe{
+    margin-top: 10px;
+    border: 4px solid white;
+    width: 95%;
+    height: 200px;
+}
+
+#sessao-06 .web{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-06 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-06 .web button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+#sessao-06 .box{
+    margin-bottom: 20px;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 06 ---------------------------------------- --> */
+#sessao-06 .mobile h2{
+    text-wrap: balance;
+    text-align: center;
+    font-size: 1.3em;
+	font-weight: 500;
+    width: 100%;
+}
+
+#sessao-06 .mobile iframe{
+    margin-top: 10px;
+    border: 4px solid white;
+    width: 100%;
+    height: 150px;
+}
+
+#sessao-06 .mobile button{
+    font-weight: 300;
+    font-size: 0.8em;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 06 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 06 ---------------------------------------- --> */
+
+
+#sessao-07{
+    background: url(imagens/chegou_sua_vez.png) no-repeat;
+    background-size: cover;
+    background-position: left;
+    color: white;
+}
+
+#sessao-07 .conteudo{
+    /* border: 1px solid blue; */
+    margin-top: 80px;
+    margin-bottom: 100px;
+    padding-top: 14px;
+    padding-left: 33px;
+}
+
+#sessao-07 h2{
+    color: #4d0f21;
+    font-family: "ZetaFonts", Sans-serif;
+	font-size: 2.5em;
+	font-weight: 400;   
+    text-wrap: balance;
+    line-height: 1.0em;
+    margin-bottom: 20px;
+}
+
+#sessao-07 p{
+    text-align: left;
+    color: #161616;
+    font-family: "Manrope", Sans-serif;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+#sessao-07 a{
+    text-decoration: none;
+}
+
+#sessao-07 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-07 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+#sessao-07 img{
+    /* height: 480px; */
+    height: 500px;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 07 ---------------------------------------- --> */
+#sessao-07 .mobile h2{
+    /* border: 2px solid red; */
+    text-wrap: balance;
+    text-align: left;
+    font-size: 1.3em;
+	font-weight: 600;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-07 .mobile button{
+    font-weight: 300;
+    font-size: 0.8em;
+    margin-bottom: 20px;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 07 ---------------------------------------- --> */
+
+/* <!-- ---------------------------------- FIM SESSÃO 07 ---------------------------------------- --> */
+
+
+#sessao-08{
+    background: #8b2040;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#sessao-08 h2{
+    color: white;
+    font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.3em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#sessao-08 span{
+    color: #ddcfbc;
+}
+
+#sessao-08 p{
+    color: white;
+    font-size: 1.1em;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#sessao-08 .box{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#sessao-08 .bloco{
+    display: flex;
+    align-items: center;
+    color: #8b2040;
+    background: whitesmoke;
+    /* border: 2px solid #4d0f21; */
+    border-radius: 0 0 30px 0;
+    /* padding-top: 15px; */
+    padding-bottom: 10px;
+    width: 350px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-08 .bloco img{
+    width: 100%;
+    height: 480px;
+    /* padding-right: 5px; */
+}
+
+#sessao-08 .bloco h3{
+    color: #4d0f21;
+    text-align: center;
+    font-size: 1.6em;
+    padding-top: 5px;
+}
+
+#sessao-08 .bloco p{
+    color: black;
+    font-size: 1.0em;
+    padding: 0px;
+    margin: 0;
+}
+
+#sessao-08 .web{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+
+#sessao-08 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-08 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+/* <!-- ---------------------------------- FIM SESSÃO 08 ---------------------------------------- --> */
+
+
+#sessao-09{
+    background: #cdbeab url(imagens/areia.png);
+}
+
+#sessao-09 .caixa img{
+    border-radius: 90px;
+    width: 180px;
+    margin: 10px 30px 0 30px;
+    /* border: 1px solid rgb(0, 248, 215); */
+}
+
+#sessao-09 h1{
+    margin: 50px 0;
+    color: #4d0f21;
+    text-align: center;
+    font-size: 2.6em;
+    /* font-weight: 600;
+    font-size: 1.3em;
+    padding: 12px 0; */
+}
+
+#sessao-09 .caixa{
+    color: white;
+    background: #8b2040;
+    /* border: 1px solid rgb(0, 248, 215); */
+    border-radius: 20px 0 20px 0;
+    margin-bottom: 40px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    padding-right: 20px;
+    box-shadow: 0px 0px 12px 0px #000000c0;
+}
+
+/* <!-- ---------------------------------- SESSÃO MOBILE 09 ---------------------------------------- --> */
+
+#sessao-09 .caixa-mobile{
+    background: #1f1f1f;
+    /* border: 1px solid rgb(0, 248, 215); */
+    border-radius: 10px;
+    margin-bottom: 40px;
+    /* padding-top: 15px; */
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#sessao-09 .caixa-mobile img{
+    border-radius: 15px;
+    margin-bottom: 0;
+    /* border: 1px solid rgb(0, 248, 215); */
+}
+
+#sessao-09 .caixa-mobile h2{
+    margin-top: 0px;
+    color: #b3985f;
+    /* border: 1px solid red; */
+}
+
+/* <!-- ---------------------------------- SESSÃO MOBILE 09 ---------------------------------------- --> */
+
+#sessao-09 h3{
+    margin: 20px 0;
+    /* border: 1px solid red; */
+}
+
+#sessao-09 p{
+    /* border: 1px solid red; */
+    font-weight: 400;
+    font-size: 1.0em;
+}
+
+#sessao-09 .paragrafo-02 p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+#sessao-09 .box img{
+    margin-bottom: 30px;
+    border: 3px solid #4d0f21;
+    width: 85%;
+    border-radius: 0;
+    box-shadow: 0px 0px 12px 0px #000000c0;
+}
+
+#sessao-09 .web{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 35px;
+}
+
+#sessao-09 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-09 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+/* <!-- ---------------------------------- FIM SESSÃO 09 ---------------------------------------- --> */
+
+
+#sessao-10{
+    background: #f8f8f8;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#sessao-10 h2{
+    /* border: 1px solid #ff0000; */
+    color: #4d0f21;
+    font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.6em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    width: 80%;
+}
+
+#sessao-10 .paragarfo{
+    text-wrap: pretty;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    /* border-bottom: 2px solid #000000; */
+}
+
+#sessao-10 .paragarfo span{
+    font-weight: 500;
+}
+
+#sessao-10 .link{
+    margin-left: 30px;
+    
+}
+
+#sessao-10 .link p{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #8b2040;
+	border-radius: 20px 0 20px 0;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-10 .link img{
+    margin-right: 10px;
+    width: 15px;
+}
+
+
+
+
+
+#sessao-10 .web{
+    margin-left: 30px;
+}
+
+#sessao-10 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-10 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+#sessao-10 img{
+    width: 95%;
+}
+/* <!-- ---------------------------------- FIM SESSÃO 10 ---------------------------------------- --> */
+
+
+#sessao-11{
+    background: linear-gradient(180deg, #8b2040 0%, #4d0f21 100%);
+    color: white;
+}
+
+#sessao-11 .caixa{
+    border: 1px solid red;
+}
+
+#sessao-11 .caixa h2{
+    font-size: 2.3em;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#sessao-11 .link p{
+    align-self: center;
+    border: 1px solid #0400ff;
+    /* font-size: 1.0em; */
+}
+
+#sessao-11 .link{
+    justify-content: center;
+    border: 2px solid white;
+    border-radius: 30px 0 30px 0;
+    /* margin-left: auto; */
+    /* margin-bottom: auto; */
+    width: 700px;
+    padding: 30px 30px 20px 30px;
+}
+
+#sessao-11 .web{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+#sessao-11 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-11 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+/* <!-- ---------------------------------- FIM SESSÃO 11 ---------------------------------------- --> */
+
+
+#sessao-12{
+    background: #f8f8f8;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#sessao-12 img{
+    border: 2px solid #4d0f21;
+    border-radius: 200px 200px 0 0;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sessao-12 h2{
+    /* border: 1px solid #ff0000; */
+    color: #4d0f21;
+    font-family: "ZetaFonts", Sans-serif;
+    font-size: 2.6em;
+	font-weight: 500;
+    text-wrap: pretty;
+    line-height: 1.0em;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    width: 80%;
+}
+
+#sessao-12 .paragarfo{
+    text-wrap: pretty;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    /* border-bottom: 2px solid #000000; */
+}
+
+#sessao-12 .paragarfo span{
+    font-weight: 500;
+    color: #4d0f21;
+}
+
+#sessao-12 .web{
+    margin-left: 30px;
+}
+
+#sessao-12 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-12 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+/* <!-- ---------------------------------- FIM SESSÃO 12 ---------------------------------------- --> */
+
+
+#sessao-13{
+    background: #8b2040;
+    background-size: cover;
+    color: white;
+}
+
+#sessao-13 h2{
+    /* border: 1px solid #ff0000; */
+    text-shadow: 1px 1px 2px black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 2.4em;
+    text-align: center;
+}
+
+/* #sessao-08 .questions{
+    border: 1px solid #1900ff;
+} */
+
+#sessao-13 .faq{
+    /* border: 1px solid #ff0000; */
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+}
+
+#sessao-13 summary{
+    color: #d1c9a8;
+    /* text-shadow: 1px 1px 2px black; */
+    font-weight: 500;
+    font-size: 1.0em;
+    padding: 5px;
+    border-bottom: 1px solid #d1c9a8;
+}
+
+#sessao-13 summary:hover{
+    color: white;
+}
+
+#sessao-13 p:hover{
+    color: white;
+}
+
+#sessao-13 p{
+    color: #d1c9a8;
+    /* text-shadow: 1px 1px 5px #fff; */
+    padding: 5px;
+}
+
+/* <!-- ---------------------------------- Início Sessão Mobile 13 ---------------------------------------- --> */
+#sessao-13 .faq-mobile{
+    /* border: 1px solid red; */
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+}
+/* <!-- ---------------------------------- Fim Sessão Mobile 13 ---------------------------------------- --> */
+#sessao-13 .web{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#sessao-13 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+}
+
+#sessao-13 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+/* <!-- ---------------------------------- FIM SESSÃO 13 ---------------------------------------- --> */
+
+
+#sessao-14{
+    background: #d1c9a8 url(imagens/areia.png);
+    /* background-size: cover; */
+    color: white;
+}
+
+#sessao-14 p{
+    text-align: center;
+    color: black;
+    font-size: 1.0em;
+	font-weight: 500;
+    padding: 5px;
+    margin-top: 30px;
+}
+
+#sessao-14 h2{
+    border: 1px solid #ff0000;
+    /* text-shadow: 1px 1px 2px black; */
+    color: #4d0f21;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 0 100px;
+    font-weight: 400;
+    font-size: 2.3em;
+    text-align: center;
+}
+
+#sessao-14 .faq{
+    /* border: 1px solid #ff0000; */
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+}
+
+#sessao-14 .web{
+    text-align: center;
+}
+
+#sessao-14 .web button{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Manrope", Sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	fill: #fff;
+	color: #fff;
+	background-color: #26b605;
+	border-radius: 30px;
+	box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, .38);
+    
+}
+
+#sessao-14 button:hover{
+    color: white;
+    background: #27b505;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+/* <!-- ---------------------------------- FIM SESSÃO 14 ---------------------------------------- --> */
+
+
+#rodape{
+    background: #4d0f21;
+    color: white;
+    padding-top: 10px;
+}
+
+#rodape .cnpj{
+    /* border: 1px solid red; */
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.0em;
+}
+
+#rodape .cnpj a{
+    color: #d1c9a8;
+    text-decoration: none;
+}
+/* <!-- ---------------------------------- FIM RODAPÈ ---------------------------------------- --> */
+
+
+/* <!-- ---------------------------------- BOTÃO WHATSAPP ---------------------------------------- --> */
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #25D366;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    transition: transform 0.3s ease;
+}
+
+/* Imagem dentro do botão */
+.whatsapp-button img {
+    width: 30px;
+    height: 30px;
+}
+
+/* Efeito de hover no botão */
+.whatsapp-button:hover {
+    transform: scale(1.1);
+}
+/* <!-- ---------------------------------- BOTÃO WHATSAPP ---------------------------------------- --> */
